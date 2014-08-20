@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": "test",
+      "img": "http://placehold.it/200x200",
+      "news": [
+        "That is not dead",
+        "Which can eternal lie",
+        "Yet with strange aeons",
+        "Even death may die."
+      ],
+      "stamp": "someone someone, june of now."
+    },
+    {
+      "id": "test2",
+      "img": "http://placehold.it/100x300",
+      "news": [
+        "Hello fuckers"
+      ],
+      "stamp": "someone someone, june of now."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+body {
+  background: #ddd;
+  color: #333;
+  font: 14px/18px serif;
+  margin: 1ch;
+}
+a[href="."] {
+  text-decoration: none;
+}
+header, .loader, .post, footer {
+  margin: auto;
+  width: 80ch;
+  max-width: 100%;
+}
+header a, footer a {
+  color: inherit;
+}
+.post {
+  background: #fff;
+  border: 1px solid #ccc;
+  border-width: 1px 1px 2px;
+}
+.post:after {
+  clear: both;
+  content: "*";
+  display: block;
+  height: 0;
+  overflow: hidden;
+  width: 0;
+}
+.post_img {
+  float: left;
+  margin: 0 2ch 0 0;
+}
+.post p {
+  margin: 0;
+  padding: 2ch;
+}
+.post_stamp {
+  border-top: 1px solid #ccc;
+  text-align: right;
+}
+footer {
+  padding-top: 10px;
+}
+footer .older {
+  float: right;
+}
+.hide {
+  display: none;
+}

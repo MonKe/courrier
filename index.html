@@ -1,0 +1,27 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta charset="utf-8"/>
+    <title>le courrier de l'hydre</title>
+    <link href="style.css" rel="stylesheet" type="text/css"/>
+    <script src="xhr.js" type="text/javascript"></script>
+    <script src="main.js" type="text/javascript"></script>
+  </head>
+  <body onload="main.start ()" onhashchange="main.load (window.location.hash.replace ('#', ''))">
+    <header>
+      <h2>
+        <a href=".">courrier.</a><a href="http://hyd.re">hyd.re</a>
+      <h2>
+    </header>
+    <p class="loader">Chargement ...</p>
+    <article class="post hide">
+      <img class="post_img" src="http://placehold.it/200x320"/>
+      <p class="post_news">Des nouvelles très intéressantes</p>
+      <p class="post_stamp">Kévin</p>
+    </article>
+    <footer>
+      <a class="newer hide" href="#3">« plus récent</a>
+      <a class="older hide" href="#5">plus ancien »</a>
+    </footer>
+  </body>
+</html>
