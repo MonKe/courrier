@@ -1,3 +1,5 @@
 un blog simpliste pour pouvoir poster des nouvelles en voyage.
 courrier.hyd.re modifable depuis github
 + un service simple de img hosting avec password ? (img.hyd.re)
+
+les images pour l'instant sont hébergées sur imgmonke.imgur.com
