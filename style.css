@@ -15,6 +15,9 @@ header, .loader, .post, footer {
 header a, footer a {
   color: inherit;
 }
+header small {
+  font-weight: normal;
+}
 .post {
   background: #fff;
   border: 1px solid #ccc;
