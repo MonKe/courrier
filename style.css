@@ -31,6 +31,7 @@ header a, footer a {
 .post_img {
   float: left;
   margin: 0 2ch 0 0;
+  max-width: 100%;
 }
 .post p {
   margin: 0;
@@ -41,6 +42,7 @@ header a, footer a {
   text-align: right;
 }
 footer {
+  height: 30px;
   padding-top: 10px;
 }
 footer .older {
