@@ -1,6 +1,16 @@
 {
   "posts": [
     {
+      "id": "depart-de-nantes",
+      "img": "http://i.imgur.com/1OScKXa.jpg",
+      "news": [
+        "La date est calée (sauf gros imprévu) : je pars de Nantes le 1er septembre au matin, laissant derrière moi une ville (une vie ?) remplie de gens que j'aime ... Scrogneugneu vous allez me manquer.",
+        "Je file dans la Creuse (en stop) pour m'encanailler en pleine nature avec des hippies, ça promet d'être très chouette. Ci-joint une photo de ce qui m'attend là-bas apparemment, youklaïdi youklaïda.",
+        "Gros poutous baveux à ceux que je ne verrai pas avant de partir."
+      ],
+      "stamp": "Kévin, fin août, sur la ligne de départ (oh yeah)."
+    },
+    {
       "id": "test",
       "img": "http://i.imgur.com/W7SBAk1.jpg?1",
       "news": [
