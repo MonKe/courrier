@@ -37,6 +37,9 @@ header a, footer a {
   margin: 0;
   padding: 2ch;
 }
+.post_news {
+  padding-top: 0;
+}
 .post_stamp {
   border-top: 1px solid #ccc;
   text-align: right;
