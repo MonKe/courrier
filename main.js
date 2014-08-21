@@ -27,7 +27,7 @@ var main = {
         post = main.data[index]
     // update html
     main.$.img.setAttribute ("src", post.img)
-    main.$.news.innerHTML = "<br/>" + post.news.join ("<br/>")
+    main.$.news.innerHTML = "&nbsp;<br/>" + post.news.join ("<br/>")
     main.$.stamp.innerHTML = post.stamp
     // reveal the post if hidden
     if (main.loading) {
