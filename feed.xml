@@ -1,0 +1,23 @@
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xml:lang="fr"
+      xml:base="http://courrier.hyd.re">
+  <id>http://courrier.hyd.re/feed.xml</id>
+  <title>le courrier de l'hydre</title>
+  <updated>2014-08-21T19:10:00+01</updated>
+  <link href="/"/>
+  <link rel="self" href="/feed.xml" />
+  <entry>
+    <id>http://courrier.hyd.re/#depart-de-nantes</id>
+    <title/>
+    <link href="http://courrier.hyd.re/#depart-de-nantes"/>
+    <updated>2014-08-21T19:10:00+01</updated>
+    <summary>La date est calée (sauf gros imprévu) : je pars de Nantes le 1er septembre au matin, laissant derrière moi une ville (une vie ?) remplie de gens que j'aime ... Scrogneugneu vous allez me manquer. (...)</summary>
+  </entry>
+  <entry>
+    <id>http://courrier.hyd.re/#test</id>
+    <title/>
+    <link href="http://courrier.hyd.re/#test"/>
+    <updated>2014-08-20T12:00:00+01</updated>
+    <summary>Coucou ! Les cartes postales ça va être compliqué mais j'essayerai de mettre à jour ici souvent, donc voilà. (...)</summary>
+  </entry>
+</feed>
