@@ -2,7 +2,7 @@
   "posts": [
     {
       "id": "depart-de-nantes",
-      "flags": "",
+      "flags": [],
       "img": "http://i.imgur.com/1OScKXa.jpg",
       "news": [
         "La date est calée (sauf gros imprévu) : je pars de Nantes le 1er septembre au matin, laissant derrière moi une ville (une vie ?) remplie de gens que j'aime ... Scrogneugneu vous allez me manquer.",
@@ -13,7 +13,7 @@
     },
     {
       "id": "test",
-      "flags": "",
+      "flags": [],
       "img": "http://i.imgur.com/W7SBAk1.jpg?1",
       "news": [
         "Coucou !",
