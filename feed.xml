@@ -3,9 +3,16 @@
       xml:base="http://courrier.hyd.re">
   <id>http://courrier.hyd.re/feed.xml</id>
   <title>le courrier de l'hydre</title>
-  <updated>2014-08-21T19:10:00+01</updated>
+  <updated>2014-08-27T14:17:00+01</updated>
   <link href="/"/>
   <link rel="self" href="/feed.xml" />
+  <entry>
+    <id>http://courrier.hyd.re/#fete-de-depart</id>
+    <title/>
+    <link href="http://courrier.hyd.re/#fete-de-depart"/>
+    <updated>2014-08-27T14:17:00+01</updated>
+    <summary>(sur l'air de « Wannabe » des Spice Girls) (...)</summary>
+  </entry>
   <entry>
     <id>http://courrier.hyd.re/#depart-de-nantes</id>
     <title/>
