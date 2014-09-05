@@ -3,9 +3,17 @@
       xml:base="http://courrier.hyd.re">
   <id>http://courrier.hyd.re/feed.xml</id>
   <title>le courrier de l'hydre</title>
-  <updated>2014-08-27T14:17:00+01</updated>
+  <updated>2014-09-05T11:40:00+01</updated>
   <link href="/"/>
   <link rel="self" href="/feed.xml" />
+  
+  <entry>
+    <id>http://courrier.hyd.re/#ropato</id>
+    <title/>
+    <link href="http://courrier.hyd.re/#ropato"/>
+    <updated>2014-09-05T11:40:00+01</updated>
+    <summary>Bonjour les gens ! Je suis bien arrivé au lieu-dit « Ropato » (...)</summary>
+  </entry>
   <entry>
     <id>http://courrier.hyd.re/#fete-de-depart</id>
     <title/>
