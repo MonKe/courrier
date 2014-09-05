@@ -1,6 +1,18 @@
 {
   "posts": [
     {
+      "id": "ropato",
+      "flags": ["text-only"],
+      "news": [
+        "Bonjour les gens !", "",
+        "Je suis bien arrivé au lieu-dit « Ropato », paumé au cœur de la Creuse, après trois jours de stop assez galère (oui oui, trois jours pour faire grosso modo Nantes-Montluçon !). Pour ceux qui auraient tenté de me joindre par téléphone, ici je n'ai ni réseau, ni électricité, ni eau courante. J'envoie ce post de la méthiathèque du village à 4km de Ropato. Donc pas de surprise si je suis un-peu-injoignable !", "",
+        "Je suis arrivé mercredi soir donc, et depuis j'ai trié des patates pourries sur un tamis, j'ai testé la baignade en rivière avec une eau qui doit atteindre les 10°C (il faut souffrir pour être propre), j'ai paillé des carottes, joué de la trompette autour du feu et perdu lamentablement au palet breton. Je m'amuse bien, donc.",
+        "Il y a une bonne petite troupe à Ropato, des gens d'un peu tous les âges (enfin entre 20 et 35 environ), tous les pays, ça parle franco-anglo-espagnol avec des touches d'italien, de néerlandais et de suédois. On est entre 10 et 15 personnes en tout, c'est fluctuant, ça remue de partout et ça fait des murs en pierre, des conserves pour l'hiver, du jardin ou du yoga :)", "",
+        "Voilà pour l'instant, on verra comment se passe ce mois, je vais essayer de me mettre à la perma pour de bon avec l'aide de JC, jardinier-clown-poète dans les nuages, et je me prépare à affronter l'automne qui va sans doute se faire sentir assez tôt dans ce fond de vallée entouré d'arbres (le soleil se lève un peu avant 11h en ce moment). Bisous les gens, je pense à vous, j'essayerai de vous trouver des jolies photos du lieu."
+      ],
+      "stamp": "Kévin, à la merveilleuse médiathèque de Chambon-sur-Voueize, le ciel un peu nuageux (mais Juanluca est persuadé que ça va s'arranger)."
+    },
+    {
       "id": "fete-de-depart",
       "flags": [],
       "img": "http://i.imgur.com/khH1gPT.jpg",
