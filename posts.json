@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "id": "peyreladas",
+      "flags": ["text-only"],
+      "news": [
+        "Hoy ! Des nouvelles enfin !",
+        "Je n'avais pas prévu de ne plus avoir internet du tout pour un moment, et presque plus de téléphone non plus. Tout ça parce que le 16 au soir, autour du feu allumé à Ropato (il nous avait pris du temps ce feu, avec que du bois vert et de la vieille écorce mouillée), est arrivée Chloé.",
+        "Sam (le gars qui a créé Ropato) avait besoin de se reposé un peu, et nous a proposé d'aller chez une amie à lui (Chloé donc) qui avait bien besoin d'un coup de main. 1h au sud de Ropato, c'est les Jardins de Peyreladas, un peu plus près du plateau des Millevaches. Un verger de conservation des fruitiers anciens, 4 hectares de pépinière, 2 maisons construites par la propriétaire des lieux, une poterie... Il y en a des choses à voir, et du boulot !",
+        "J'ai donc fait mes bagages en 20 minutes et hop, parti ! Au revoir Ropato, merci les gens formidables que j'ai croisé ici !", "",
+        "2 des personnes de Ropato m'ont rejoint le jour suivant: Eden et Paco. Tous ensemble on s'est mis au désherbage des petits arbres, à l'enterrement de tuyaux, au creusement de tranchées pour fabriquer une barricade anti-rats taupiers, aux marchés et foires bios le week-end... L'activité ne manque pas et souvent on s'est couchés épuisés et contents.",
+        "Cette étape arrive elle aussi à sa fin puisque dans 3 jours je file sur Gap. C'était bien ! C'était vachement bien la Creuse, des gens sympa, plein de savoirs à prendre, un grand bol d'air, des après-midis chauds et des nuits mouillées-glacées. Sur certains points je me sens presque à la maison, il ne manque que vous...", "",
+        "L'histoire continue, 3 chapitres écrits mais là j'ai pas le temps de vous recopier ça. Je vous fais des bisous, des nouvelles bientôt."
+      ],
+      "stamp": "Elias, qui emballe des bols et tient la caisse au petit magasin de poterie de la famille Dequeker et essaye de faire marcher un internet récalcitrant."
+    },
+    {
       "id": "joey-1",
       "flags": [],
       "img":"http://i.imgur.com/JTsjvDQ.jpg",
