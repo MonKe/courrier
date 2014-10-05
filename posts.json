@@ -1,12 +1,25 @@
 {
   "posts": [
     {
+      "id": "gap",
+      "flags": ["text-only"],
+      "news": [
+        "Bonjour les gens !", "",
+        "Un mois seulement que je suis parti et déjà tellement d'histoires chouettes ! Je suis arrivé à Gap hier midi, c'était un peu plus difficile que prévu (le stop pour se faire la route des cols, bof...) et grâce à Nasha je passe un week-end civilisé avec douche, lit et même shopping !",
+        "J'ai en effet chopé manteau, bonnet et quelques sous-pulls pour aller affronter l'autriche (dans l'est, vers Graz). Je pars demain matin, un car qui part de Gap et m'emmène à Grenoble et à partir de là, mystère, je verrai bien comment je traverse la Suisse.", "",
+        "Ma prochaine communication sera donc sans doute de là-bas, on verra bien quand, j'aimerais arriver vite mais je sais pas quand encore, je verrai bien à quelle vitesse j'avance.",
+        "Et comme je quitte la France le tel ce sera plus trop possible (enfin sauf en cas d'urgence), mais je suis toujours joignable par mail quand j'ai internet et un ordi sous la main !", "",
+        "Des bisous, et <em>bis bald</em>!"
+      ],
+      "stamp": "Elias, au calme dans la vie citadine de Gap. Merci pour l'accueil Nasha !"
+    },
+    {
       "id": "peyreladas",
       "flags": ["text-only"],
       "news": [
         "Hoy ! Des nouvelles enfin !",
         "Je n'avais pas prévu de ne plus avoir internet du tout pour un moment, et presque plus de téléphone non plus. Tout ça parce que le 16 au soir, autour du feu allumé à Ropato (il nous avait pris du temps ce feu, avec que du bois vert et de la vieille écorce mouillée), est arrivée Chloé.",
-        "Sam (le gars qui a créé Ropato) avait besoin de se reposé un peu, et nous a proposé d'aller chez une amie à lui (Chloé donc) qui avait bien besoin d'un coup de main. 1h au sud de Ropato, c'est les Jardins de Peyreladas, un peu plus près du plateau des Millevaches. Un verger de conservation des fruitiers anciens, 4 hectares de pépinière, 2 maisons construites par la propriétaire des lieux, une poterie... Il y en a des choses à voir, et du boulot !",
+        "Sam (le gars qui a créé Ropato) avait besoin de se reposer un peu, et nous a proposé d'aller chez une amie à lui (Chloé donc) qui avait bien besoin d'un coup de main. 1h au sud de Ropato, c'est les Jardins de Peyreladas, un peu plus près du plateau des Millevaches. Un verger de conservation des fruitiers anciens, 4 hectares de pépinière, 2 maisons construites par la propriétaire des lieux, une poterie... Il y en a des choses à voir, et du boulot !",
         "J'ai donc fait mes bagages en 20 minutes et hop, parti ! Au revoir Ropato, merci les gens formidables que j'ai croisé ici !", "",
         "2 des personnes de Ropato m'ont rejoint le jour suivant: Eden et Paco. Tous ensemble on s'est mis au désherbage des petits arbres, à l'enterrement de tuyaux, au creusement de tranchées pour fabriquer une barricade anti-rats taupiers, aux marchés et foires bios le week-end... L'activité ne manque pas et souvent on s'est couchés épuisés et contents.",
         "Cette étape arrive elle aussi à sa fin puisque dans 3 jours je file sur Gap. C'était bien ! C'était vachement bien la Creuse, des gens sympa, plein de savoirs à prendre, un grand bol d'air, des après-midis chauds et des nuits mouillées-glacées. Sur certains points je me sens presque à la maison, il ne manque que vous...", "",
