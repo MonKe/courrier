@@ -19,3 +19,15 @@ c'est prêt !
 
 * "draft" éjecte le post de la liste des posts publiés
 * "text-only" cache l'image
+
+## évolutions possibles
+
+* catégories (sans doute un caractère devant un flag signifiant qu'on peut le
+  chercher là: ce n'est pas une vraie page mais juste une facon de sélectionner certains tags
+  et pas d'autres), ex : un flag "@news" créerait une catégorie news où le post serait labellé
+  "#news/titre-du-post"
+* un format plus simple pour les posts: en même temps c'est bien d'en avoir plein dans un seul
+  fichier, et en même temps marre de découper chaque ligne, c'est nul.
+* une archive de posts : pas forcément visible mais il faut que je sois capable de partir
+  sur un nouveau fichiers post quand l'ancien devient trop volumineux.
+* une porte de sortie possible ? je me recode tout ca en html simple sans js :)
