@@ -3,9 +3,16 @@
       xml:base="http://courrier.hyd.re">
   <id>http://courrier.hyd.re/feed.xml</id>
   <title>le courrier de l'hydre</title>
-  <updated>2014-10-05T15:20:00+01</updated>
+  <updated>2014-10-12T00:40:00+01</updated>
   <link href="/"/>
-  <link rel="self" href="/feed.xml" />
+  <link rel="self" href="/feed.xml"/>
+  <entry>
+    <id>http://courrier.hyd.re/#steigerauf</id>
+    <title/>
+    <link href="http://courrier.hyd.re/#steigerauf"/>
+    <updated>2014-10-12T00:40:00+01</updated>
+    <summary>Après trois jours de cache-cache avec les contrôleurs de trois pays différents (...)</summary>
+  </entry>
   <entry>
     <id>http://courrier.hyd.re/#gap</id>
     <title/>
