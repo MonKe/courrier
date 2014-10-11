@@ -1,6 +1,17 @@
 {
   "posts": [
     {
+      "id": "steigerauf",
+      "flags": ["text-only"],
+      "news": [
+        "Après trois jours de cache-cache avec les contrôleurs de trois pays différents ... Après avoir résidé dans un chouette squatt de Lausanne (merci Morgane pour le super tuyau !), dormi à côté de la gare d'Innsbruck et dans un jardin collectif de Peggau ... Après pas mal de solitude aussi, c'est pas très marrant la fraude en fait, quand on aime pas mentir ...", "",
+        "Je suis arrivé à Steigerauf ! (le nom de la ferme dans laquelle je suis en ce moment, qui signifie \"debout\" si j'ai bien suivi). Enfin, il y a deux jours ... Le travail sur la cabane a commencé, mais c'est surtout le ramassage des pommes pour faire le jus et la visite de Graz (belle ville !) qui a pris mon temps. On est entre 3 et 5 suivant les moments, et on a un coin tout calme de l'autriche pour s'épanouir. Ah, j'oublie Ida, vieille femme qui me taille la bavette dès qu'elle peut dans un dialecte à couper au couteau, même les autrichiens comprennent que dalle.",
+        "Et puis ... Le voyage semble bouger un peu ! On commence à voir comment on va se retrouver avec Gwen et Aurélie et - oh surprise - on passe peut-être bien par le grand froid et les steppes ... Pas mal de trucs à planifier de ce côté aussi, avec un clavier autrichien et une connection internet de Schrödinger ...", "",
+        "De mon côté l'ordi me gonfle et j'ai sommeil. Bisous,"
+      ],
+      "stamp": "Elias, dans la cuisine collective de Steigerauf, me préparant à aller me coucher sans réveiller le chien débile."
+    },
+    {
       "id": "gap",
       "flags": ["text-only"],
       "news": [
