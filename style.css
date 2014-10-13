@@ -15,6 +15,9 @@ header, .loader, .post, footer {
 header a, footer a {
   color: inherit;
 }
+header small {
+  font-weight: normal;
+}
 .post {
   background: #fff;
   border: 1px solid #ccc;
@@ -31,16 +34,21 @@ header a, footer a {
 .post_img {
   float: left;
   margin: 0 2ch 0 0;
+  max-width: 100%;
 }
 .post p {
   margin: 0;
   padding: 2ch;
+}
+.post .post_news {
+  padding-top: 0;
 }
 .post_stamp {
   border-top: 1px solid #ccc;
   text-align: right;
 }
 footer {
+  height: 30px;
   padding-top: 10px;
 }
 footer .older {
