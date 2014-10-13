@@ -1,59 +1,35 @@
 body {
   background: #ddd;
-  color: #333;
-  font: 14px/18px serif;
-  margin: 1ch;
-}
-a[href="."] {
-  text-decoration: none;
-}
-header, .loader, .post, footer {
-  margin: auto;
+  font: 14px/16px serif;
+  margin: 2em auto;
+  max-width: 95%;
   width: 80ch;
-  max-width: 100%;
 }
-header a, footer a {
+a {
   color: inherit;
 }
-header small {
-  font-weight: normal;
+header, article footer {
+  color: #aaa;
+  padding: 1em 0;
+  text-align: center;
 }
-.post {
+header a, article footer a{
+  display: inline-block;
+  padding: 0 2ch;
+}
+article {
   background: #fff;
-  border: 1px solid #ccc;
-  border-width: 1px 1px 2px;
+  color: #666;
+  font: 16px/20px serif;
+  padding: 1ch;
 }
-.post:after {
-  clear: both;
-  content: "*";
-  display: block;
-  height: 0;
-  overflow: hidden;
-  width: 0;
+article img {
+  width: 100%;
 }
-.post_img {
-  float: left;
-  margin: 0 2ch 0 0;
-  max-width: 100%;
-}
-.post p {
-  margin: 0;
-  padding: 2ch;
-}
-.post .post_news {
-  padding-top: 0;
-}
-.post_stamp {
-  border-top: 1px solid #ccc;
-  text-align: right;
-}
-footer {
-  height: 30px;
-  padding-top: 10px;
-}
-footer .older {
-  float: right;
-}
-.hide {
+/* accordion on articles */
+article {
   display: none;
+}
+article:target, #test1 {
+  display: block;
 }
