@@ -26,6 +26,12 @@ article {
 article img {
   width: 100%;
 }
+.chapter {
+  font-family: monospace;
+}
+.hr {
+  text-align: center;
+}
 /* accordion on articles */
 article {
   display: none;
