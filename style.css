@@ -30,6 +30,6 @@ article img {
 article {
   display: none;
 }
-article:target {
+article:target, #last {
   display: block;
 }
