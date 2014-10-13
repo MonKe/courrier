@@ -3,26 +3,44 @@
   <head>
     <meta charset="utf-8"/>
     <title>le courrier de l'hydre</title>
-    <link href="style.css" rel="stylesheet" type="text/css"/>
-    <script src="xhr.js" type="text/javascript"></script>
-    <script src="main.js" type="text/javascript"></script>
+    <link href="/style.css" rel="stylesheet" type="text/css"/>
+    <script type="text/javascript">
+      window.onload = function (e) {
+        window.location.hash = document.querySelector ("article").getAttribute ("id")
+      }
+    </script>
   </head>
-  <body onload="main.start ()" onhashchange="main.load (window.location.hash.replace ('#', ''))">
+  <body>
     <header>
-      <h2>
-        <a href=".">courrier.</a>hyd.re
-        <small><a href="/feed.xml">(rss)</a></small>
-      <h2>
+      <h1>courrier.hyd.re</h1>
+      <a href="/#nojs">les nouvelles</a>
+      <a href="/joey/#chapter-1">feuilleton</a>
+      ***
+      <a href="/feed.xml">flux rss</a>
+      <!--<a href="/en/#english-start">english version</a>-->
     </header>
-    <p class="loader">Chargement ...</p>
-    <article class="post hide">
-      <img class="post_img" src="#"/>
-      <p class="post_news"></p>
-      <p class="post_stamp"></p>
+    <article id="nojs">
+      <p>Hop, j'ai rajouté dans les articles précédents plein de <a href="/france/#gap">jolies photos de la Creuse</a> qu'Eden m'a envoyé. Merci Eden&nbsp;!</p>
+      <p>Et j'ai un peu refait le site aussi mais ca, à moins qu'il marche pas vous vous en foutez un peu.</p>
+      <p>Bisous,<br/>
+        Elias.</p>
+      <footer>
+        <a href="#steigerauf">avant</a>
+      </footer>
     </article>
-    <footer>
-      <a class="newer hide" href="#">« plus récent</a>
-      <a class="older hide" href="#">plus ancien »</a>
-    </footer>
+    <article id="steigerauf">
+      <p>Bonjour les gens&nbsp;!</p>
+      <p>Un mois seulement que je suis parti et déjà tellement d'histoires chouettes ! Je suis arrivé à Gap hier midi, c'était un peu plus difficile que prévu (le stop pour se faire la route des cols, bof...) et grâce à Nasha je passe un week-end civilisé avec douche, lit et même shopping !<br/>
+      J'ai en effet chopé manteau, bonnet et quelques sous-pulls pour aller affronter l'autriche (dans l'est, vers Graz). Je pars demain matin, un car qui part de Gap et m'emmène à Grenoble et à partir de là, mystère, je verrai bien comment je traverse la Suisse.</p>
+      <p>Ma prochaine communication sera donc sans doute de là-bas, on verra bien quand, j'aimerais arriver vite mais je sais pas quand encore, je verrai bien à quelle vitesse j'avance.<br/>
+      Et comme je quitte la France le tel ce sera plus trop possible (enfin sauf en cas d'urgence), mais je suis toujours joignable par mail quand j'ai internet et un ordi sous la main&nbsp;!</p>
+      <p>Des bisous, et <em>bis bald</em>&nbsp;!</p>
+      <p>Elias, au calme dans la vie citadine de Gap. Merci pour l'accueil Nasha&nbsp;!</p>
+      <footer>
+        <a href="/creuse/#gap">avant</a>
+        ***
+        <a href="#nojs">après</a>
+      </footer>
+    </article>
   </body>
 </html>
