@@ -12,5 +12,5 @@ v2 : tout recodé sans js, c'est plus simple.
 
 1. écriture de l'article dans le bon dossier
 2. on copie l'article en tant que #last dans index
-2. on édite tous les en-têtes pour qu'ils pointent vers le bon article (amélioration possible ici ? genre on remplit le hash avec le dernier élément si vide, en js, et les en-têtes pointent vide)
+3. (seulement quand j'écris un nouveau dossier) écriture des en-têtes pour pointer vers le bon dossier
 3. on édite le flux
