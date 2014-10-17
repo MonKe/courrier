@@ -17,6 +17,9 @@ header a, article footer a{
   display: inline-block;
   padding: 0 2ch;
 }
+header h1 a {
+  padding: 0;
+}
 article {
   background: #fff;
   color: #666;
