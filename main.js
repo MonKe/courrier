@@ -3,6 +3,6 @@ window.onload = function (e) {
       ids = []
   for (var i = 0; i < nodes.length; i++)
       ids[i] = nodes[i].getAttribute ("id")
-  if (ids.indexOf (window.location.hash) === -1)
+  if (ids.indexOf (window.location.hash.substring (1)) === -1)
     window.location.hash = ids[0]
 }
