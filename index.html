@@ -3,26 +3,28 @@
   <head>
     <meta charset="utf-8"/>
     <title>le courrier de l'hydre</title>
-    <link href="style.css" rel="stylesheet" type="text/css"/>
-    <script src="xhr.js" type="text/javascript"></script>
-    <script src="main.js" type="text/javascript"></script>
+    <link href="/style.css" rel="stylesheet" type="text/css"/>
   </head>
-  <body onload="main.start ()" onhashchange="main.load (window.location.hash.replace ('#', ''))">
+  <body>
     <header>
-      <h2>
-        <a href=".">courrier.</a>hyd.re
-        <small><a href="/feed.xml">(rss)</a></small>
-      <h2>
+      <h1><a href="/">courrier.</a>hyd.re</h1>
+      <a href="/">les nouvelles</a>
+      <a href="/joey/">feuilleton</a>
+      ***
+      <a href="/feed.xml">flux rss</a>
+      <!--<a href="/en/#english-start">english version</a>-->
     </header>
-    <p class="loader">Chargement ...</p>
-    <article class="post hide">
-      <img class="post_img" src="#"/>
-      <p class="post_news"></p>
-      <p class="post_stamp"></p>
+    <article id="last">
+      <p><em>Hej!</em></p>
+      <p>J-5 : Le 30 octobre je bouge à nouveau direction la Pologne en traversant la République Tchèque. Quoi, c'est plus au nord que prévu ?</p>
+      <p>C'est que depuis bien 2 semaines <a href="http://www.parlaba.fr">Gwen</a> nous a concocté une nouvelle virée dans le froid, et pas des moindres ... Si tout se passe comme prévu (s'il te plaît, Saint-Visa ou qui que tu sois) fin novembre <em>on prend le Transsibérien</em>.</p>
+      <p>Hop hop hop, la Russie, la Mongolie et la Chine, le tout en plein hiver ! Ca promet d'être folklo. Et ca va faire bien plaisir de voir des têtes connues pour la première fois en 3 mois - on dirait pas mais ca compte ce genre de choses, si si !</p>
+      <p>Alors pendant ce temps-là je me fais 3 semaines en Pologne dans une ancienne gare ferroviaire / ancien squatt d'artistes réhabilité en centre culturel, tout ca dans le sud de la Pologne, yahou ! Comme ca je m'amuse, je file un coup de main et je m'habitue au froid. J'arrive juste pour fêter la Toussaint, ils ont prévu de donner un concert ce jour-là donc on peut dire que ca commence bien !</p>
+      <p><em>Dobranoc!</em></p>
+      <p>Élias, qui commence à ranger ses affaires et a allégé son sac de bien 1/4 du contenu à nouveau, vive le voyage léger et les manteaux bien chauds !</p>
+      <footer>
+        <a href="/europe/#joey2">avant</a>
+      </footer>
     </article>
-    <footer>
-      <a class="newer hide" href="#">« plus récent</a>
-      <a class="older hide" href="#">plus ancien »</a>
-    </footer>
   </body>
 </html>
