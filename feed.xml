@@ -3,9 +3,16 @@
       xml:base="http://courrier.hyd.re">
   <id>http://courrier.hyd.re/feed.xml</id>
   <title>le courrier de l'hydre</title>
-  <updated>2014-10-25T23:00:00+01</updated>
+  <updated>2014-10-30T07:30:00+01</updated>
   <link href="/"/>
   <link rel="self" href="/feed.xml"/>
+  <entry>
+    <id>http://courrier.hyd.re/europe/#goodbye-steigerauf</id>
+    <title/>
+    <link href="http://courrier.hyd.re/europe/#goodbye-steigerauf"/>
+    <updated>2014-10-30T07:30:00+01</updated>
+    <summary>Je quitte les montagnes autrichiennes avec quelques petits souvenirs pour vous : d'abord les photos de la maman de Dominik (merci beaucoup !) (...)</summary>
+  </entry>
   <entry>
     <id>http://courrier.hyd.re/europe/#pologne</id>
     <title/>
