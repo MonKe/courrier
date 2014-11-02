@@ -3,9 +3,16 @@
       xml:base="http://courrier.hyd.re">
   <id>http://courrier.hyd.re/feed.xml</id>
   <title>le courrier de l'hydre</title>
-  <updated>2014-10-30T07:30:00+01</updated>
+  <updated>2014-11-02T19:50:00+01</updated>
   <link href="/"/>
   <link rel="self" href="/feed.xml"/>
+  <entry>
+    <id>http://courrier.hyd.re/europe/#stacja-wolimierz</id>
+    <title/>
+    <link href="http://courrier.hyd.re/europe/#stacja-wolimierz"/>
+    <updated>2014-11-02T19:50:00+01</updated>
+    <summary>Tchou tchou ! Je suis bien arrive a la "Stacja Wolimierz", ancienne gare reconvertie en squatt / centre d'art / lieu de concerts et festivals (...)</summary>
+  </entry>
   <entry>
     <id>http://courrier.hyd.re/europe/#goodbye-steigerauf</id>
     <title/>
