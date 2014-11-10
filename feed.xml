@@ -3,9 +3,16 @@
       xml:base="http://courrier.hyd.re">
   <id>http://courrier.hyd.re/feed.xml</id>
   <title>le courrier de l'hydre</title>
-  <updated>2014-11-02T19:50:00+01</updated>
+  <updated>2014-11-10T22:20:00+01</updated>
   <link href="/"/>
   <link rel="self" href="/feed.xml"/>
+  <entry>
+    <id>http://courrier.hyd.re/europe/#pause</id>
+    <title/>
+    <link href="http://courrier.hyd.re/europe/#pause"/>
+    <updated>2014-11-10T22:20:00+01</updated>
+    <summary>On me l'a dit et repete, le voyage c'est l'aventure ! (...)</summary>
+  </entry>
   <entry>
     <id>http://courrier.hyd.re/europe/#stacja-wolimierz</id>
     <title/>
