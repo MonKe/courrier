@@ -3,9 +3,16 @@
       xml:base="http://courrier.hyd.re">
   <id>http://courrier.hyd.re/feed.xml</id>
   <title>le courrier de l'hydre</title>
-  <updated>2014-11-10T22:20:00+01</updated>
+  <updated>2015-01-17T11:50:00-06</updated>
   <link href="/"/>
   <link rel="self" href="/feed.xml"/>
+  <entry>
+    <id>http://courrier.hyd.re/asie/#koh-samui</id>
+    <title/>
+    <link href="http://courrier.hyd.re/asie/#koh-samui"/>
+    <updated>2015-01-17T11:50:00-06</updated>
+    <summary>Sowadee-kap ! (...)</summary>
+  </entry>
   <entry>
     <id>http://courrier.hyd.re/europe/#pause</id>
     <title/>
