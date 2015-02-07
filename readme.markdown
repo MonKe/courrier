@@ -14,3 +14,7 @@ v2 : tout recodé sans js, c'est plus simple.
 2. on copie l'article en tant que #last dans index
 3. (seulement quand j'écris un nouveau dossier) écriture des en-têtes pour pointer vers le bon dossier
 3. on édite le flux
+
+## un de ces jours
+
+* un simple flux rss avec une feuille de style ? ca pourrait ptet marcher ?
