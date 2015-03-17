@@ -3,9 +3,16 @@
       xml:base="http://courrier.hyd.re">
   <id>http://courrier.hyd.re/feed.xml</id>
   <title>le courrier de l'hydre</title>
-  <updated>2015-02-27T19:40:00+06</updated>
+  <updated>2015-03-17T15:30:00+06</updated>
   <link href="/"/>
   <link rel="self" href="/feed.xml"/>
+  <entry>
+    <id>http://courrier.hyd.re/asie/#georgetown</id>
+    <title/>
+    <link href="http://courrier.hyd.re/asie/#georgetown"/>
+    <updated>2015-03-17T15:30:00+06</updated>
+    <summary>Bonjour de Malaisie ! (...) </summary>
+  </entry>
   <entry>
     <id>http://courrier.hyd.re/asie/#koh-tao</id>
     <title/>
